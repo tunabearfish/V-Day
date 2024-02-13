@@ -46,7 +46,7 @@ export default function Page() {
             <img
               className="h-[200px]"
               style={{ width: "400x", height: "240px" }}
-              src="https://gifdb.com/gif/pokemon-pikachu-will-you-be-my-valentine-p6pjjlhcdeki4xrw.html?embed=true" 
+              src="https://gifdb.com/images/high/pokemon-pikachu-will-you-be-my-valentine-p6pjjlhcdeki4xrw.gif" 
             />
             <h1 className="text-container">Will you be my Valentine?</h1>
             <div>

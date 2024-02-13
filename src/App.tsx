@@ -46,7 +46,7 @@ export default function Page() {
             <img
               className="h-[200px]"
               style={{ width: "400x", height: "240px" }}
-              src="https://giphy.com/gifs/bee-mine-love-H2naGa3wituA0FfZVX"
+              src="https://giphy.com/embed/H2naGa3wituA0FfZVX" 
             />
             <h1 className="text-container">Will you be my Valentine?</h1>
             <div>
